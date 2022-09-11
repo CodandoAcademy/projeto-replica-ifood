@@ -33,7 +33,7 @@ Replicar o site Ifood (https://www.ifood.com.br/), em proporção 1:1
 - https://www.w3schools.com/howto/howto_js_sticky_header.asp
 - https://dev.to/mycodemagic/top-10-javascript-carousel-libraries-1ech
 - https://developer.mozilla.org/pt-BR/docs/Web/API/Document
-    - getElementById()
+    - getElementById() -> https://developer.mozilla.org/pt-BR/docs/Web/API/Document/getElementById
     - getElementsByClassName()
     - getElementsByName()
     - getElementsByTagName()
