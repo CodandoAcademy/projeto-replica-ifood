@@ -18,7 +18,7 @@ Replicar o site Ifood (https://www.ifood.com.br/), em proporção 1:1
  # Observações
  - Não há problema em não fazer o cabeçalho fixo.
  - Não há problemas em utilização de bibliotecas de terceiros.
- - O site deverá ser **RESPONSIVO
+ - O site deverá ser **RESPONSIVO**
   
 
   
