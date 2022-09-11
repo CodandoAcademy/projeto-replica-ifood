@@ -7,12 +7,17 @@ Replicar o site Ifood (https://www.ifood.com.br/), em proporção 1:1
 # Nível de conhecimento necessário
 
 ## Iniciate em programação:
-  - HTML e CSS
-  - No caso de iniciates, não será necessário fazer o slideshow funcional, e também não será necessário fazer o cabeçalho fixo.
+  - HTML e CSS.
+  - Não será necessário fazer o slideshow funcional, e também não será necessário fazer o cabeçalho fixo.
   
 ## Cursado até Javascript
-  - HTML, CSS e Javascript
-  - No caso de quem sabe javascript, deverá recriar o site 1:1
+  - HTML, CSS e Javascript.
+  - Slideshow e cabeçalho fixo são obrigatórios.
+  - No caso de quem sabe javascript, deverá recriar o site 1:1.
+
+## Além do Javascript
+  - Criar repositorio para o projeto.
+  - Tela de busca funcional (poderá consumir e exibir os resultados da busca na API https://pokeapi.co/). 
   
   
  # Observações
@@ -23,6 +28,10 @@ Replicar o site Ifood (https://www.ifood.com.br/), em proporção 1:1
  - O site não precisa ser funcional, poderá ser estático.
  - Respeito a Semântica HTML e estruturas de site.
   
+# Links de Apoio
 
+- https://www.w3schools.com/howto/howto_js_sticky_header.asp
+- https://dev.to/mycodemagic/top-10-javascript-carousel-libraries-1ech
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Document
   
 
