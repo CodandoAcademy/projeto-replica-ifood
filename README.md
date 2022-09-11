@@ -1,4 +1,4 @@
-# projeto-replica-ifood
+# Projeto réplica Ifood Site
 Réplica do Site do Ifood
 
 # O que o aluno deve fazer?
